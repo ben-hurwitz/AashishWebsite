@@ -7,7 +7,7 @@ html{
     height: 100vh;
     overflow: hidden;
     background-color: black;
-    cursor: url(../assets/pointcursor.png), auto;
+    cursor: url(assets/pointcursor.png), auto;
   }
 
   /** Header and Marquee**/
@@ -134,7 +134,7 @@ html{
     line-height: 1.2;
     text-align: center;
 
-    background-image: url(../assets/MainPagePhoto.png);
+    background-image: url(assets/MainPagePhoto.png);
     background-repeat: no-repeat;
     background-position: right bottom;
     background-size: auto 80%;
